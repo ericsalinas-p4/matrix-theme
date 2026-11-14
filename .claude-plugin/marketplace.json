@@ -1,0 +1,5 @@
+{
+  "name": "matrix-theme",
+  "owner": { "name": "ericsalinas-p4" },
+  "plugins": [{ "name": "matrix", "source": "./" }]
+}
